@@ -5,3 +5,10 @@
 <br />
 is from Making Snake Boot Sector Game in Assembly (x86) https://www.youtube.com/watch?v=tHO5x_Ha6pE
 <br />
+<br />
+<b>Xerox optical mouse chip</b> - The Optical Mouse, 
+and an Architectural Methodology for Smart Digital Sensors 
+Richard F. Lyon 
+VLSI·81-1 AUGUST 1981 
+@ Xerox Corporation 1981
+<br />
